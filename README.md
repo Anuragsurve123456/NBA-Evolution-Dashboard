@@ -36,8 +36,8 @@ This dataset is well-suited for complex visualization due to its size, temporal 
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd nba-dash-dashboard
+   git clone (https://github.com/Anuragsurve123456/NBA-Evolution-Dashboard/tree/main)
+   cd NBA-Evolution-Dashboard
 
 2. Create a virtual environment (recommended)
    python -m venv venv
@@ -58,7 +58,7 @@ source venv/bin/activate
 ## 📂 Dataset Setup
 
 Place the dataset file at:
-nba-dash-dashboard/data/game.csv
+NBA-Evolution-Dashboard/data/game.csv
 
 If the dataset is stored elsewhere, you can set an environment variable:
 DATA_PATH=/full/path/to/game.csv
