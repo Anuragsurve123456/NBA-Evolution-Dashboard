@@ -1,0 +1,10 @@
+dash==3.2.0
+flask
+gunicorn
+plotly
+numpy
+pandas
+scipy
+dash-bootstrap-components
+scikit-learn
+statsmodels
