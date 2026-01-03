@@ -31,23 +31,6 @@ Key features include:
 
 This dataset is well-suited for complex visualization due to its size, temporal depth, and mix of numeric and categorical variables.
 
-Note:
-The dataset may not be included in this repository due to size or usage constraints. Instructions for adding the dataset locally are provided below.
-
----
-
-## 🧠 Project Structure
-
-nba-dash-dashboard/
-│── app.py
-│── requirements.txt
-│── README.md
-│── .gitignore
-│── assets/
-│     └── NBA_logo.png
-│── data/
-│     └── game.csv
-
 ---
 
 ## ⚙️ Installation & Setup
