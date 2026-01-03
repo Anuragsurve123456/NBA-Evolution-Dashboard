@@ -77,7 +77,7 @@ Then open a browser and go to:
 
 ---
 
-🌐 Live Application Link
+## 🌐 Live Application Link
 
 The interactive NBA dashboard has been successfully deployed on Google Cloud Platform (Cloud Run) and is publicly accessible at https://dashapp-718572610311.us-east1.run.app/
 . This live deployment allows users to explore all dashboard features—including interactive filtering, team-level storytelling, animated bar chart races, and statistical visualizations—directly in the browser without any local setup. The hosted application demonstrates a complete end-to-end pipeline from data preprocessing and visualization to a production-ready, cloud-deployed analytics system.
