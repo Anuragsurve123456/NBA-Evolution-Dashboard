@@ -1,4 +1,4 @@
-# 🏀 Visualizing the Evolution of the NBA (1946–2025)
+# 🏀 Visualizing the Evolution of the NBA (1946–2023)
 
 This project is an interactive Python-based data visualization dashboard that explores the long-term evolution of the National Basketball Association (NBA).
 It was developed as the Final Term Project (FTP) for DATS 6401 – Visualization of Complex Data at The George Washington University.
